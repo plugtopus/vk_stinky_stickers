@@ -1,0 +1,24 @@
+
+
+.clear_fix.pv_photo_wrap .ui_scroll_content.clear_fix .dermo {
+	position: absolute;
+    top: 83px;
+    right: 0px;
+}
+
+.emoji_tt_wrap {
+    width: 325px !important;
+}
+.emoji_tt_wrap  .emoji_list{
+    width: 312px !important;
+}
+.emoji_tabs_r_s {
+    margin-left: 275px !important;
+}
+.emoji_tabs_l_s {
+    margin-left: 70px !important;
+}
+
+.emoji_dermo .emoji_sprite {
+	background-image: url(../img/16.png);
+}
